@@ -1,0 +1,7 @@
+C:\Users\alumnotlsch\source\repos\Taller2D_parte2\Taller2D\bin\Debug\Taller2D.exe.config
+C:\Users\alumnotlsch\source\repos\Taller2D_parte2\Taller2D\bin\Debug\Taller2D.exe
+C:\Users\alumnotlsch\source\repos\Taller2D_parte2\Taller2D\bin\Debug\Taller2D.pdb
+C:\Users\alumnotlsch\source\repos\Taller2D_parte2\Taller2D\obj\Debug\Taller2D.csproj.AssemblyReference.cache
+C:\Users\alumnotlsch\source\repos\Taller2D_parte2\Taller2D\obj\Debug\Taller2D.csproj.CoreCompileInputs.cache
+C:\Users\alumnotlsch\source\repos\Taller2D_parte2\Taller2D\obj\Debug\Taller2D.exe
+C:\Users\alumnotlsch\source\repos\Taller2D_parte2\Taller2D\obj\Debug\Taller2D.pdb
